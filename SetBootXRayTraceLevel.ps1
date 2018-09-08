@@ -9,7 +9,7 @@
 # Microsoft or Microsoft Partners have neither accountabilty or 
 # responsibility for results produced by use of this script.
 #
-# We will not provide any support through any means.
+# Microsoft will not provide any support through any means.
 # ------------- DISCLAIMER -------------------------------------------------
 #
 # ***************************************************************************
